@@ -24,6 +24,6 @@ public class LastManStanding {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(lastManStanding(100000000));
+		System.out.println(lastManStanding(99));
 	}
 }
